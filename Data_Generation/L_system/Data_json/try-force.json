@@ -1,0 +1,19 @@
+[
+  {
+    "S": "AAA",
+    "A": "[F[FF-BA]FC]+",
+    "B": "--[F-F-FC]-",
+    "C": "FCF[B+F]+B",
+    "direct": 0,
+    "angle": 0,
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "size": 1,
+    "size_growth": 0,
+    "angle_growth": 0,
+    "iteration": 2,
+    "title": "try-force"
+  }
+]
