@@ -1,0 +1,1000 @@
+{"file_name": "coral_angle_125_iter_12.png", "caption": "angle is 125 iteration is 12 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "snapdragon_angle_40_iter_27.png", "caption": "angle is 40 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "3d-pyramids_angle_150_iter_24.png", "caption": "angle is 150 iteration is 24 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "the-DNA-dance_angle_45_iter_20.png", "caption": "angle is 45 iteration is 20 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "dragon-spirograph_angle_120_iter_98.png", "caption": "angle is 120 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "re-coil_angle_60_iter_28.png", "caption": "angle is 60 iteration is 28 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "ordered-chaos_angle_95_iter_6.png", "caption": "angle is 95 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "gears_angle_30_iter_23.png", "caption": "angle is 30 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "spirocopter_angle_40_iter_34.png", "caption": "angle is 40 iteration is 34 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "spin-engine_angle_160_iter_12.png", "caption": "angle is 160 iteration is 12 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "trifecta_angle_150_iter_50.png", "caption": "angle is 150 iteration is 50 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "ordered-chaos_angle_5_iter_6.png", "caption": "angle is 5 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "trigon_angle_55_iter_6.png", "caption": "angle is 55 iteration is 6 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "amoeba_angle_110_iter_2.png", "caption": "angle is 110 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "flagella_angle_145_iter_74.png", "caption": "angle is 145 iteration is 74 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "ordered-chaos_angle_85_iter_6.png", "caption": "angle is 85 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_30_iter_11.png", "caption": "angle is 30 iteration is 11 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-park-at-night_angle_155_iter_4.png", "caption": "angle is 155 iteration is 4 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "metamorphosis_angle_125_iter_34.png", "caption": "angle is 125 iteration is 34 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "snapdragon_angle_110_iter_27.png", "caption": "angle is 110 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "flagella_angle_95_iter_72.png", "caption": "angle is 95 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "snapdragon_angle_85_iter_29.png", "caption": "angle is 85 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "johnny-lee_angle_65_iter_26.png", "caption": "angle is 65 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "tornado_angle_90_iter_16.png", "caption": "angle is 90 iteration is 16 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "tornado_angle_120_iter_14.png", "caption": "angle is 120 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "brainchild_angle_85_iter_4.png", "caption": "angle is 85 iteration is 4 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "platterstar_angle_165_iter_196.png", "caption": "angle is 165 iteration is 196 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "re-coil_angle_75_iter_24.png", "caption": "angle is 75 iteration is 24 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "bubble-trouble_angle_65_iter_38.png", "caption": "angle is 65 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "crystal-orchid_angle_60_iter_27.png", "caption": "angle is 60 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "tornado_angle_25_iter_12.png", "caption": "angle is 25 iteration is 12 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "dragonfish_angle_110_iter_39.png", "caption": "angle is 110 iteration is 39 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "brainchild_angle_85_iter_10.png", "caption": "angle is 85 iteration is 10 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "leviathon_angle_160_iter_25.png", "caption": "angle is 160 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "try-force_angle_105_iter_10.png", "caption": "angle is 105 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "flyweight_angle_50_iter_26.png", "caption": "angle is 50 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "crystal-orchid_angle_10_iter_25.png", "caption": "angle is 10 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "try-force_angle_135_iter_8.png", "caption": "angle is 135 iteration is 8 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "house-rules_angle_90_iter_26.png", "caption": "angle is 90 iteration is 26 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "3d-tusk---gearspin_angle_100_iter_17.png", "caption": "angle is 100 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-DNA-dance_angle_25_iter_22.png", "caption": "angle is 25 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "bubble-trouble_angle_50_iter_38.png", "caption": "angle is 50 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "battling-dragon-tails_angle_30_iter_25.png", "caption": "angle is 30 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "battling-dragon-tails_angle_165_iter_23.png", "caption": "angle is 165 iteration is 23 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "johnny-lee_angle_105_iter_28.png", "caption": "angle is 105 iteration is 28 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "slamurai_angle_155_iter_96.png", "caption": "angle is 155 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "tornado_angle_50_iter_18.png", "caption": "angle is 50 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "coalescence_angle_10_iter_190.png", "caption": "angle is 10 iteration is 190 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_15_iter_6.png", "caption": "angle is 15 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "the-bomb_angle_25_iter_74.png", "caption": "angle is 25 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "pollenate_angle_175_iter_22.png", "caption": "angle is 175 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "gears_angle_55_iter_27.png", "caption": "angle is 55 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "ordered-chaos_angle_125_iter_10.png", "caption": "angle is 125 iteration is 10 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "dragon-spirograph_angle_170_iter_90.png", "caption": "angle is 170 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "spindlethrift_angle_95_iter_28.png", "caption": "angle is 95 iteration is 28 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "3d-tusk---gearspin_angle_65_iter_15.png", "caption": "angle is 65 iteration is 15 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "wigglesaur_angle_15_iter_27.png", "caption": "angle is 15 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "twistmas-tree_angle_130_iter_34.png", "caption": "angle is 130 iteration is 34 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "flagella_angle_15_iter_78.png", "caption": "angle is 15 iteration is 78 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "snapdragon_angle_130_iter_29.png", "caption": "angle is 130 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "battling-dragon-tails_angle_5_iter_27.png", "caption": "angle is 5 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-bomb_angle_50_iter_76.png", "caption": "angle is 50 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "tornado_angle_110_iter_18.png", "caption": "angle is 110 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "dance-for-me_angle_145_iter_36.png", "caption": "angle is 145 iteration is 36 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "politic_angle_160_iter_21.png", "caption": "angle is 160 iteration is 21 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "angel-flight_angle_10_iter_38.png", "caption": "angle is 10 iteration is 38 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "dragon-spirograph_angle_55_iter_90.png", "caption": "angle is 55 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "dragon-spirograph_angle_60_iter_98.png", "caption": "angle is 60 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "mortal-coil_angle_50_iter_34.png", "caption": "angle is 50 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "dragon-spirograph_angle_130_iter_98.png", "caption": "angle is 130 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "snapdragon_angle_110_iter_21.png", "caption": "angle is 110 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "jamiroquai---rippletwist_angle_70_iter_23.png", "caption": "angle is 70 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "flyweight_angle_80_iter_26.png", "caption": "angle is 80 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "politic_angle_115_iter_17.png", "caption": "angle is 115 iteration is 17 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "coalescence_angle_135_iter_196.png", "caption": "angle is 135 iteration is 196 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "single-3d-blade_angle_105_iter_27.png", "caption": "angle is 105 iteration is 27 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-bomb_angle_45_iter_70.png", "caption": "angle is 45 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "the-slug_angle_35_iter_20.png", "caption": "angle is 35 iteration is 20 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "trigon_angle_15_iter_4.png", "caption": "angle is 15 iteration is 4 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "samurai_angle_155_iter_23.png", "caption": "angle is 155 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "twistmas-tree_angle_70_iter_32.png", "caption": "angle is 70 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "tornado_angle_165_iter_16.png", "caption": "angle is 165 iteration is 16 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "crystal-orchid_angle_165_iter_29.png", "caption": "angle is 165 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "angel-flight_angle_15_iter_38.png", "caption": "angle is 15 iteration is 38 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "bubble-trouble_angle_115_iter_38.png", "caption": "angle is 115 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "slamurai_angle_115_iter_96.png", "caption": "angle is 115 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "tornado_angle_135_iter_10.png", "caption": "angle is 135 iteration is 10 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "wigglesaur_angle_95_iter_27.png", "caption": "angle is 95 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "brainchild_angle_20_iter_8.png", "caption": "angle is 20 iteration is 8 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "angel-flight_angle_80_iter_34.png", "caption": "angle is 80 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "brainchild_angle_55_iter_10.png", "caption": "angle is 55 iteration is 10 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "platterstar_angle_160_iter_190.png", "caption": "angle is 160 iteration is 190 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "amoeba_angle_10_iter_4.png", "caption": "angle is 10 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "fire!_angle_65_iter_8.png", "caption": "angle is 65 iteration is 8 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_80_iter_4.png", "caption": "angle is 80 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "the-triffids_angle_155_iter_8.png", "caption": "angle is 155 iteration is 8 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "spirocopter_angle_55_iter_38.png", "caption": "angle is 55 iteration is 38 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "the-DNA-dance_angle_80_iter_22.png", "caption": "angle is 80 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "tree-horse_angle_140_iter_10.png", "caption": "angle is 140 iteration is 10 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "house-rules_angle_70_iter_26.png", "caption": "angle is 70 iteration is 26 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "wormly_angle_35_iter_10.png", "caption": "angle is 35 iteration is 10 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "gears_angle_165_iter_21.png", "caption": "angle is 165 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "heisenberg_angle_145_iter_10.png", "caption": "angle is 145 iteration is 10 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "tornado_angle_160_iter_18.png", "caption": "angle is 160 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "crystal-orchid_angle_105_iter_25.png", "caption": "angle is 105 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "fire!_angle_15_iter_10.png", "caption": "angle is 15 iteration is 10 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "coalescence_angle_55_iter_198.png", "caption": "angle is 55 iteration is 198 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "tornado_angle_30_iter_14.png", "caption": "angle is 30 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "spindlethrift_angle_15_iter_20.png", "caption": "angle is 15 iteration is 20 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "gemini_angle_5_iter_98.png", "caption": "angle is 5 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "brainchild_angle_175_iter_12.png", "caption": "angle is 175 iteration is 12 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "the-DNA-dance_angle_55_iter_22.png", "caption": "angle is 55 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "3d-pyramids_angle_15_iter_22.png", "caption": "angle is 15 iteration is 22 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "manta-ray_angle_80_iter_74.png", "caption": "angle is 80 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "the-triffids_angle_140_iter_6.png", "caption": "angle is 140 iteration is 6 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "tornado_angle_55_iter_14.png", "caption": "angle is 55 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "gemini_angle_60_iter_90.png", "caption": "angle is 60 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "politic_angle_55_iter_23.png", "caption": "angle is 55 iteration is 23 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "rorschach_angle_110_iter_8.png", "caption": "angle is 110 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "rorschach_angle_85_iter_6.png", "caption": "angle is 85 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "slamurai_angle_5_iter_90.png", "caption": "angle is 5 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "gemini_angle_15_iter_90.png", "caption": "angle is 15 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "clover_angle_170_iter_76.png", "caption": "angle is 170 iteration is 76 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "fire!_angle_110_iter_10.png", "caption": "angle is 110 iteration is 10 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "samurai_angle_20_iter_29.png", "caption": "angle is 20 iteration is 29 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragonfish_angle_95_iter_37.png", "caption": "angle is 95 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wigglesaur_angle_85_iter_25.png", "caption": "angle is 85 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "wormly_angle_130_iter_10.png", "caption": "angle is 130 iteration is 10 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "coral_angle_165_iter_14.png", "caption": "angle is 165 iteration is 14 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "tornado_angle_135_iter_12.png", "caption": "angle is 135 iteration is 12 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "spindlethrift_angle_160_iter_28.png", "caption": "angle is 160 iteration is 28 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "bubble-trouble_angle_30_iter_38.png", "caption": "angle is 30 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "ordered-chaos_angle_40_iter_8.png", "caption": "angle is 40 iteration is 8 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "wigglesaur_angle_80_iter_25.png", "caption": "angle is 80 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "crystal-orchid_angle_10_iter_21.png", "caption": "angle is 10 iteration is 21 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "spin-engine_angle_20_iter_18.png", "caption": "angle is 20 iteration is 18 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "trifecta_angle_160_iter_54.png", "caption": "angle is 160 iteration is 54 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "rorschach_angle_60_iter_8.png", "caption": "angle is 60 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "johnny-lee_angle_35_iter_26.png", "caption": "angle is 35 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "wormly_angle_95_iter_6.png", "caption": "angle is 95 iteration is 6 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "manta-ray_angle_30_iter_72.png", "caption": "angle is 30 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "3d-pyramids_angle_130_iter_28.png", "caption": "angle is 130 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "manta-ray_angle_125_iter_78.png", "caption": "angle is 125 iteration is 78 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "clover_angle_70_iter_78.png", "caption": "angle is 70 iteration is 78 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "flyweight_angle_160_iter_26.png", "caption": "angle is 160 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "bubble-trouble_angle_45_iter_30.png", "caption": "angle is 45 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "snake-charmer_angle_110_iter_20.png", "caption": "angle is 110 iteration is 20 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "snapdragon_angle_165_iter_21.png", "caption": "angle is 165 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "coral_angle_145_iter_8.png", "caption": "angle is 145 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "rorschach_angle_10_iter_4.png", "caption": "angle is 10 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "clover_angle_150_iter_70.png", "caption": "angle is 150 iteration is 70 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "gears_angle_130_iter_29.png", "caption": "angle is 130 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "crystal-orchid_angle_125_iter_21.png", "caption": "angle is 125 iteration is 21 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "ornate-clock_angle_125_iter_78.png", "caption": "angle is 125 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "johnny-lee_angle_25_iter_22.png", "caption": "angle is 25 iteration is 22 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "try-force_angle_170_iter_8.png", "caption": "angle is 170 iteration is 8 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "trifecta_angle_95_iter_54.png", "caption": "angle is 95 iteration is 54 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "try-force_angle_35_iter_4.png", "caption": "angle is 35 iteration is 4 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "manta-ray_angle_55_iter_72.png", "caption": "angle is 55 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "trifecta_angle_135_iter_56.png", "caption": "angle is 135 iteration is 56 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "wigglesaur_angle_25_iter_27.png", "caption": "angle is 25 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "flyweight_angle_165_iter_24.png", "caption": "angle is 165 iteration is 24 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "bubble-trouble_angle_125_iter_34.png", "caption": "angle is 125 iteration is 34 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "clockwork_angle_130_iter_4.png", "caption": "angle is 130 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "the-DNA-dance_angle_60_iter_20.png", "caption": "angle is 60 iteration is 20 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "re-coil_angle_145_iter_26.png", "caption": "angle is 145 iteration is 26 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "slamurai_angle_40_iter_98.png", "caption": "angle is 40 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "tornado_angle_55_iter_10.png", "caption": "angle is 55 iteration is 10 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "spin-engine_angle_120_iter_12.png", "caption": "angle is 120 iteration is 12 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "snapdragon_angle_125_iter_23.png", "caption": "angle is 125 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "wigglesaur_angle_55_iter_23.png", "caption": "angle is 55 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "try-force_angle_140_iter_6.png", "caption": "angle is 140 iteration is 6 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "ornate-clock_angle_35_iter_70.png", "caption": "angle is 35 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "flyweight_angle_10_iter_20.png", "caption": "angle is 10 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "house-rules_angle_125_iter_24.png", "caption": "angle is 125 iteration is 24 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "single-3d-blade_angle_170_iter_21.png", "caption": "angle is 170 iteration is 21 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "rorschach_angle_110_iter_4.png", "caption": "angle is 110 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "clover_angle_15_iter_78.png", "caption": "angle is 15 iteration is 78 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "the-park-at-night_angle_30_iter_6.png", "caption": "angle is 30 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "tree-horse_angle_150_iter_2.png", "caption": "angle is 150 iteration is 2 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "spin-engine_angle_145_iter_14.png", "caption": "angle is 145 iteration is 14 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "gemini_angle_80_iter_98.png", "caption": "angle is 80 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "spin-engine_angle_85_iter_16.png", "caption": "angle is 85 iteration is 16 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "the-slug_angle_95_iter_26.png", "caption": "angle is 95 iteration is 26 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "dance-for-me_angle_170_iter_30.png", "caption": "angle is 170 iteration is 30 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "spin-engine_angle_45_iter_16.png", "caption": "angle is 45 iteration is 16 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "platterstar_angle_105_iter_198.png", "caption": "angle is 105 iteration is 198 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "spirocopter_angle_155_iter_36.png", "caption": "angle is 155 iteration is 36 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "samurai_angle_70_iter_23.png", "caption": "angle is 70 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragonfish_angle_50_iter_37.png", "caption": "angle is 50 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "platterstar_angle_135_iter_198.png", "caption": "angle is 135 iteration is 198 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "jamiroquai---rippletwist_angle_40_iter_25.png", "caption": "angle is 40 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "amoeba_angle_130_iter_2.png", "caption": "angle is 130 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "twistmas-tree_angle_145_iter_38.png", "caption": "angle is 145 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "dragon-spirograph_angle_150_iter_90.png", "caption": "angle is 150 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "try-force_angle_125_iter_8.png", "caption": "angle is 125 iteration is 8 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "leviathon_angle_60_iter_23.png", "caption": "angle is 60 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "wormly_angle_170_iter_2.png", "caption": "angle is 170 iteration is 2 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "single-3d-blade_angle_105_iter_29.png", "caption": "angle is 105 iteration is 29 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "coral_angle_85_iter_8.png", "caption": "angle is 85 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "battling-dragon-tails_angle_40_iter_21.png", "caption": "angle is 40 iteration is 21 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "snake-charmer_angle_65_iter_24.png", "caption": "angle is 65 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "the-slug_angle_65_iter_26.png", "caption": "angle is 65 iteration is 26 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "house-rules_angle_30_iter_26.png", "caption": "angle is 30 iteration is 26 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "samurai_angle_70_iter_29.png", "caption": "angle is 70 iteration is 29 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "leviathon_angle_125_iter_31.png", "caption": "angle is 125 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "dance-for-me_angle_15_iter_32.png", "caption": "angle is 15 iteration is 32 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "wigglesaur_angle_150_iter_23.png", "caption": "angle is 150 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "bubble-trouble_angle_40_iter_32.png", "caption": "angle is 40 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "gears_angle_5_iter_29.png", "caption": "angle is 5 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "the-bomb_angle_120_iter_72.png", "caption": "angle is 120 iteration is 72 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "samurai_angle_85_iter_29.png", "caption": "angle is 85 iteration is 29 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "samurai_angle_60_iter_23.png", "caption": "angle is 60 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wormly_angle_45_iter_6.png", "caption": "angle is 45 iteration is 6 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "flyweight_angle_40_iter_22.png", "caption": "angle is 40 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "angel-flight_angle_90_iter_34.png", "caption": "angle is 90 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "the-slug_angle_75_iter_24.png", "caption": "angle is 75 iteration is 24 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "crystal-orchid_angle_80_iter_27.png", "caption": "angle is 80 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "brainchild_angle_100_iter_12.png", "caption": "angle is 100 iteration is 12 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_140_iter_2.png", "caption": "angle is 140 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "platterstar_angle_175_iter_196.png", "caption": "angle is 175 iteration is 196 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "metamorphosis_angle_10_iter_36.png", "caption": "angle is 10 iteration is 36 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "pulse-engine_angle_30_iter_38.png", "caption": "angle is 30 iteration is 38 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "crystal-orchid_angle_170_iter_25.png", "caption": "angle is 170 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "dragon-spirograph_angle_45_iter_98.png", "caption": "angle is 45 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "fire!_angle_65_iter_6.png", "caption": "angle is 65 iteration is 6 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "flyweight_angle_160_iter_28.png", "caption": "angle is 160 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "politic_angle_15_iter_17.png", "caption": "angle is 15 iteration is 17 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "wigglesaur_angle_120_iter_29.png", "caption": "angle is 120 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "dragon-spirograph_angle_105_iter_90.png", "caption": "angle is 105 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "spin-engine_angle_25_iter_16.png", "caption": "angle is 25 iteration is 16 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "tree-horse_angle_35_iter_10.png", "caption": "angle is 35 iteration is 10 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "flagella_angle_105_iter_76.png", "caption": "angle is 105 iteration is 76 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "angel-flight_angle_120_iter_40.png", "caption": "angle is 120 iteration is 40 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "coalescence_angle_160_iter_196.png", "caption": "angle is 160 iteration is 196 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "gears_angle_80_iter_23.png", "caption": "angle is 80 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "crystal-orchid_angle_115_iter_23.png", "caption": "angle is 115 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "tree-horse_angle_50_iter_8.png", "caption": "angle is 50 iteration is 8 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "ordered-chaos_angle_50_iter_10.png", "caption": "angle is 50 iteration is 10 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "3d-pyramids_angle_10_iter_28.png", "caption": "angle is 10 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "trigon_angle_25_iter_2.png", "caption": "angle is 25 iteration is 2 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "platterstar_angle_35_iter_194.png", "caption": "angle is 35 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "heisenberg_angle_165_iter_8.png", "caption": "angle is 165 iteration is 8 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "rorschach_angle_50_iter_2.png", "caption": "angle is 50 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "fire!_angle_140_iter_4.png", "caption": "angle is 140 iteration is 4 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "spindlethrift_angle_10_iter_28.png", "caption": "angle is 10 iteration is 28 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "snake-charmer_angle_105_iter_26.png", "caption": "angle is 105 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "battling-dragon-tails_angle_85_iter_27.png", "caption": "angle is 85 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "johnny-lee_angle_160_iter_22.png", "caption": "angle is 160 iteration is 22 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "jamiroquai---rippletwist_angle_55_iter_27.png", "caption": "angle is 55 iteration is 27 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "pollenate_angle_165_iter_22.png", "caption": "angle is 165 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "snapdragon_angle_170_iter_25.png", "caption": "angle is 170 iteration is 25 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "dance-for-me_angle_160_iter_34.png", "caption": "angle is 160 iteration is 34 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "the-bomb_angle_175_iter_72.png", "caption": "angle is 175 iteration is 72 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "mortal-coil_angle_100_iter_34.png", "caption": "angle is 100 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "dragonfish_angle_10_iter_33.png", "caption": "angle is 10 iteration is 33 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "heisenberg_angle_145_iter_2.png", "caption": "angle is 145 iteration is 2 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "single-3d-blade_angle_95_iter_25.png", "caption": "angle is 95 iteration is 25 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "crystal-orchid_angle_105_iter_21.png", "caption": "angle is 105 iteration is 21 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "platterstar_angle_115_iter_192.png", "caption": "angle is 115 iteration is 192 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "dance-for-me_angle_95_iter_34.png", "caption": "angle is 95 iteration is 34 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "snake-charmer_angle_25_iter_26.png", "caption": "angle is 25 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "metamorphosis_angle_165_iter_30.png", "caption": "angle is 165 iteration is 30 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "single-3d-blade_angle_155_iter_23.png", "caption": "angle is 155 iteration is 23 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "clockwork_angle_95_iter_6.png", "caption": "angle is 95 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "bubble-trouble_angle_75_iter_30.png", "caption": "angle is 75 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "spirocopter_angle_35_iter_30.png", "caption": "angle is 35 iteration is 30 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "bubble-trouble_angle_15_iter_30.png", "caption": "angle is 15 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "the-bomb_angle_50_iter_72.png", "caption": "angle is 50 iteration is 72 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "dance-for-me_angle_35_iter_34.png", "caption": "angle is 35 iteration is 34 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "the-slug_angle_15_iter_26.png", "caption": "angle is 15 iteration is 26 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "coral_angle_115_iter_8.png", "caption": "angle is 115 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "spindlethrift_angle_160_iter_26.png", "caption": "angle is 160 iteration is 26 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "samurai_angle_75_iter_27.png", "caption": "angle is 75 iteration is 27 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "snake-charmer_angle_120_iter_26.png", "caption": "angle is 120 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "pulse-engine_angle_95_iter_38.png", "caption": "angle is 95 iteration is 38 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "brainchild_angle_120_iter_6.png", "caption": "angle is 120 iteration is 6 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "flyweight_angle_105_iter_26.png", "caption": "angle is 105 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "tornado_angle_15_iter_18.png", "caption": "angle is 15 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "wigglesaur_angle_95_iter_23.png", "caption": "angle is 95 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "fire!_angle_130_iter_6.png", "caption": "angle is 130 iteration is 6 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "pulse-engine_angle_140_iter_30.png", "caption": "angle is 140 iteration is 30 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "the-park-at-night_angle_65_iter_2.png", "caption": "angle is 65 iteration is 2 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "bubble-trouble_angle_135_iter_30.png", "caption": "angle is 135 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "slamurai_angle_155_iter_94.png", "caption": "angle is 155 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "manta-ray_angle_125_iter_74.png", "caption": "angle is 125 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "single-3d-blade_angle_55_iter_23.png", "caption": "angle is 55 iteration is 23 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_85_iter_17.png", "caption": "angle is 85 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "spin-engine_angle_50_iter_12.png", "caption": "angle is 50 iteration is 12 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "fire!_angle_115_iter_10.png", "caption": "angle is 115 iteration is 10 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "wormly_angle_5_iter_2.png", "caption": "angle is 5 iteration is 2 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "johnny-lee_angle_15_iter_28.png", "caption": "angle is 15 iteration is 28 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "slamurai_angle_165_iter_98.png", "caption": "angle is 165 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "slamurai_angle_175_iter_92.png", "caption": "angle is 175 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "rorschach_angle_30_iter_8.png", "caption": "angle is 30 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "ornate-clock_angle_40_iter_78.png", "caption": "angle is 40 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "trigon_angle_90_iter_4.png", "caption": "angle is 90 iteration is 4 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "platterstar_angle_130_iter_196.png", "caption": "angle is 130 iteration is 196 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "gemini_angle_75_iter_90.png", "caption": "angle is 75 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "dragon-spirograph_angle_165_iter_90.png", "caption": "angle is 165 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "pulse-engine_angle_70_iter_30.png", "caption": "angle is 70 iteration is 30 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "the-bomb_angle_115_iter_74.png", "caption": "angle is 115 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "samurai_angle_110_iter_29.png", "caption": "angle is 110 iteration is 29 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "the-park-at-night_angle_20_iter_4.png", "caption": "angle is 20 iteration is 4 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_65_iter_8.png", "caption": "angle is 65 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "trigon_angle_145_iter_2.png", "caption": "angle is 145 iteration is 2 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "coral_angle_110_iter_10.png", "caption": "angle is 110 iteration is 10 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "crystal-orchid_angle_70_iter_25.png", "caption": "angle is 70 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "slamurai_angle_105_iter_94.png", "caption": "angle is 105 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "snake-charmer_angle_75_iter_24.png", "caption": "angle is 75 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "johnny-lee_angle_125_iter_26.png", "caption": "angle is 125 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "politic_angle_165_iter_23.png", "caption": "angle is 165 iteration is 23 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "snapdragon_angle_120_iter_27.png", "caption": "angle is 120 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "stargaze_angle_80_iter_20.png", "caption": "angle is 80 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_160_iter_8.png", "caption": "angle is 160 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "coalescence_angle_150_iter_192.png", "caption": "angle is 150 iteration is 192 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "coalescence_angle_95_iter_194.png", "caption": "angle is 95 iteration is 194 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "snake-charmer_angle_25_iter_20.png", "caption": "angle is 25 iteration is 20 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "clover_angle_30_iter_72.png", "caption": "angle is 30 iteration is 72 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "dance-for-me_angle_65_iter_34.png", "caption": "angle is 65 iteration is 34 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "spin-engine_angle_110_iter_16.png", "caption": "angle is 110 iteration is 16 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "spirocopter_angle_20_iter_34.png", "caption": "angle is 20 iteration is 34 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "tree-horse_angle_25_iter_6.png", "caption": "angle is 25 iteration is 6 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "3d-tusk---gearspin_angle_55_iter_17.png", "caption": "angle is 55 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "jamiroquai---rippletwist_angle_150_iter_25.png", "caption": "angle is 150 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "snapdragon_angle_85_iter_21.png", "caption": "angle is 85 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "samurai_angle_30_iter_25.png", "caption": "angle is 30 iteration is 25 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "trifecta_angle_60_iter_52.png", "caption": "angle is 60 iteration is 52 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "manta-ray_angle_140_iter_72.png", "caption": "angle is 140 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "bubble-trouble_angle_80_iter_38.png", "caption": "angle is 80 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "pollenate_angle_175_iter_20.png", "caption": "angle is 175 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_145_iter_6.png", "caption": "angle is 145 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "manta-ray_angle_30_iter_78.png", "caption": "angle is 30 iteration is 78 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "manta-ray_angle_115_iter_76.png", "caption": "angle is 115 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "coral_angle_110_iter_8.png", "caption": "angle is 110 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "platterstar_angle_145_iter_192.png", "caption": "angle is 145 iteration is 192 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "ordered-chaos_angle_30_iter_2.png", "caption": "angle is 30 iteration is 2 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "twistmas-tree_angle_40_iter_38.png", "caption": "angle is 40 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "ornate-clock_angle_95_iter_78.png", "caption": "angle is 95 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "manta-ray_angle_85_iter_72.png", "caption": "angle is 85 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "house-rules_angle_85_iter_20.png", "caption": "angle is 85 iteration is 20 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "pulse-engine_angle_85_iter_32.png", "caption": "angle is 85 iteration is 32 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "3d-tusk---gearspin_angle_140_iter_13.png", "caption": "angle is 140 iteration is 13 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "ordered-chaos_angle_55_iter_4.png", "caption": "angle is 55 iteration is 4 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "single-3d-blade_angle_75_iter_21.png", "caption": "angle is 75 iteration is 21 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "wormly_angle_150_iter_4.png", "caption": "angle is 150 iteration is 4 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "gears_angle_170_iter_29.png", "caption": "angle is 170 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "flyweight_angle_115_iter_22.png", "caption": "angle is 115 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "dance-for-me_angle_35_iter_30.png", "caption": "angle is 35 iteration is 30 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "manta-ray_angle_15_iter_70.png", "caption": "angle is 15 iteration is 70 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "brainchild_angle_30_iter_4.png", "caption": "angle is 30 iteration is 4 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "fire!_angle_30_iter_6.png", "caption": "angle is 30 iteration is 6 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "metamorphosis_angle_150_iter_32.png", "caption": "angle is 150 iteration is 32 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "battling-dragon-tails_angle_95_iter_27.png", "caption": "angle is 95 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "clockwork_angle_110_iter_8.png", "caption": "angle is 110 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "ornate-clock_angle_10_iter_70.png", "caption": "angle is 10 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "gears_angle_130_iter_21.png", "caption": "angle is 130 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_55_iter_10.png", "caption": "angle is 55 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "the-bomb_angle_100_iter_78.png", "caption": "angle is 100 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_140_iter_6.png", "caption": "angle is 140 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "heisenberg_angle_5_iter_8.png", "caption": "angle is 5 iteration is 8 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "amoeba_angle_85_iter_10.png", "caption": "angle is 85 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "slamurai_angle_105_iter_98.png", "caption": "angle is 105 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "gemini_angle_85_iter_96.png", "caption": "angle is 85 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "dragon-spirograph_angle_70_iter_96.png", "caption": "angle is 70 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "dragonfish_angle_90_iter_37.png", "caption": "angle is 90 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "pollenate_angle_85_iter_24.png", "caption": "angle is 85 iteration is 24 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "spindlethrift_angle_90_iter_20.png", "caption": "angle is 90 iteration is 20 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "dragonfish_angle_65_iter_31.png", "caption": "angle is 65 iteration is 31 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragon-spirograph_angle_95_iter_94.png", "caption": "angle is 95 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "trigon_angle_85_iter_10.png", "caption": "angle is 85 iteration is 10 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "gears_angle_5_iter_23.png", "caption": "angle is 5 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_55_iter_11.png", "caption": "angle is 55 iteration is 11 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "amoeba_angle_130_iter_8.png", "caption": "angle is 130 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "pollenate_angle_120_iter_26.png", "caption": "angle is 120 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "coalescence_angle_150_iter_198.png", "caption": "angle is 150 iteration is 198 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "dance-for-me_angle_15_iter_36.png", "caption": "angle is 15 iteration is 36 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "slamurai_angle_140_iter_98.png", "caption": "angle is 140 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "spin-engine_angle_160_iter_14.png", "caption": "angle is 160 iteration is 14 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "spin-engine_angle_50_iter_14.png", "caption": "angle is 50 iteration is 14 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "spirocopter_angle_80_iter_34.png", "caption": "angle is 80 iteration is 34 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "3d-pyramids_angle_125_iter_28.png", "caption": "angle is 125 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "clover_angle_175_iter_70.png", "caption": "angle is 175 iteration is 70 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_150_iter_2.png", "caption": "angle is 150 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "trifecta_angle_45_iter_54.png", "caption": "angle is 45 iteration is 54 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "clockwork_angle_100_iter_10.png", "caption": "angle is 100 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "manta-ray_angle_50_iter_74.png", "caption": "angle is 50 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "snake-charmer_angle_50_iter_26.png", "caption": "angle is 50 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "battling-dragon-tails_angle_160_iter_25.png", "caption": "angle is 160 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "3d-pyramids_angle_70_iter_22.png", "caption": "angle is 70 iteration is 22 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "try-force_angle_70_iter_6.png", "caption": "angle is 70 iteration is 6 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "ornate-clock_angle_20_iter_74.png", "caption": "angle is 20 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "snapdragon_angle_165_iter_27.png", "caption": "angle is 165 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "spirocopter_angle_85_iter_38.png", "caption": "angle is 85 iteration is 38 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "ordered-chaos_angle_25_iter_6.png", "caption": "angle is 25 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "jamiroquai---rippletwist_angle_105_iter_29.png", "caption": "angle is 105 iteration is 29 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "tornado_angle_110_iter_12.png", "caption": "angle is 110 iteration is 12 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "trifecta_angle_75_iter_52.png", "caption": "angle is 75 iteration is 52 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "dance-for-me_angle_50_iter_32.png", "caption": "angle is 50 iteration is 32 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "samurai_angle_30_iter_21.png", "caption": "angle is 30 iteration is 21 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "samurai_angle_130_iter_25.png", "caption": "angle is 130 iteration is 25 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "ordered-chaos_angle_110_iter_10.png", "caption": "angle is 110 iteration is 10 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "johnny-lee_angle_70_iter_26.png", "caption": "angle is 70 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "try-force_angle_90_iter_2.png", "caption": "angle is 90 iteration is 2 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "johnny-lee_angle_65_iter_28.png", "caption": "angle is 65 iteration is 28 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "dragon-spirograph_angle_65_iter_94.png", "caption": "angle is 65 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "ordered-chaos_angle_55_iter_6.png", "caption": "angle is 55 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "coral_angle_45_iter_16.png", "caption": "angle is 45 iteration is 16 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "metamorphosis_angle_95_iter_38.png", "caption": "angle is 95 iteration is 38 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "bubble-trouble_angle_25_iter_36.png", "caption": "angle is 25 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "spirocopter_angle_60_iter_30.png", "caption": "angle is 60 iteration is 30 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "tornado_angle_5_iter_18.png", "caption": "angle is 5 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "slamurai_angle_150_iter_98.png", "caption": "angle is 150 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "3d-tusk---gearspin_angle_60_iter_11.png", "caption": "angle is 60 iteration is 11 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_65_iter_13.png", "caption": "angle is 65 iteration is 13 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "wigglesaur_angle_30_iter_29.png", "caption": "angle is 30 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "try-force_angle_135_iter_2.png", "caption": "angle is 135 iteration is 2 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "bubble-trouble_angle_80_iter_34.png", "caption": "angle is 80 iteration is 34 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "3d-pyramids_angle_115_iter_22.png", "caption": "angle is 115 iteration is 22 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "leviathon_angle_95_iter_29.png", "caption": "angle is 95 iteration is 29 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "house-rules_angle_155_iter_24.png", "caption": "angle is 155 iteration is 24 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "the-bomb_angle_75_iter_72.png", "caption": "angle is 75 iteration is 72 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "pulse-engine_angle_110_iter_32.png", "caption": "angle is 110 iteration is 32 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "ornate-clock_angle_30_iter_74.png", "caption": "angle is 30 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "the-triffids_angle_110_iter_6.png", "caption": "angle is 110 iteration is 6 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "jamiroquai---rippletwist_angle_130_iter_29.png", "caption": "angle is 130 iteration is 29 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "manta-ray_angle_135_iter_78.png", "caption": "angle is 135 iteration is 78 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "clover_angle_20_iter_72.png", "caption": "angle is 20 iteration is 72 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "try-force_angle_70_iter_2.png", "caption": "angle is 70 iteration is 2 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "tornado_angle_15_iter_10.png", "caption": "angle is 15 iteration is 10 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "clover_angle_140_iter_74.png", "caption": "angle is 140 iteration is 74 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "slamurai_angle_145_iter_92.png", "caption": "angle is 145 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "rorschach_angle_110_iter_6.png", "caption": "angle is 110 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "spindlethrift_angle_165_iter_26.png", "caption": "angle is 165 iteration is 26 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "flagella_angle_45_iter_72.png", "caption": "angle is 45 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "pulse-engine_angle_120_iter_32.png", "caption": "angle is 120 iteration is 32 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "ornate-clock_angle_145_iter_76.png", "caption": "angle is 145 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "flagella_angle_10_iter_70.png", "caption": "angle is 10 iteration is 70 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "crystal-orchid_angle_100_iter_29.png", "caption": "angle is 100 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "spirocopter_angle_120_iter_34.png", "caption": "angle is 120 iteration is 34 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "amoeba_angle_5_iter_2.png", "caption": "angle is 5 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "house-rules_angle_110_iter_24.png", "caption": "angle is 110 iteration is 24 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "ornate-clock_angle_30_iter_70.png", "caption": "angle is 30 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "re-coil_angle_130_iter_20.png", "caption": "angle is 130 iteration is 20 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "clockwork_angle_165_iter_2.png", "caption": "angle is 165 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "dragon-spirograph_angle_65_iter_92.png", "caption": "angle is 65 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "wormly_angle_40_iter_6.png", "caption": "angle is 40 iteration is 6 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "house-rules_angle_45_iter_26.png", "caption": "angle is 45 iteration is 26 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "dance-for-me_angle_45_iter_32.png", "caption": "angle is 45 iteration is 32 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "the-triffids_angle_125_iter_6.png", "caption": "angle is 125 iteration is 6 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "spin-engine_angle_175_iter_16.png", "caption": "angle is 175 iteration is 16 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "gears_angle_105_iter_23.png", "caption": "angle is 105 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "metamorphosis_angle_75_iter_38.png", "caption": "angle is 75 iteration is 38 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "coral_angle_175_iter_14.png", "caption": "angle is 175 iteration is 14 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "gears_angle_55_iter_25.png", "caption": "angle is 55 iteration is 25 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "house-rules_angle_110_iter_22.png", "caption": "angle is 110 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "try-force_angle_65_iter_6.png", "caption": "angle is 65 iteration is 6 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "snake-charmer_angle_10_iter_24.png", "caption": "angle is 10 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "gemini_angle_175_iter_90.png", "caption": "angle is 175 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "house-rules_angle_45_iter_22.png", "caption": "angle is 45 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "crystal-orchid_angle_45_iter_23.png", "caption": "angle is 45 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "the-DNA-dance_angle_10_iter_24.png", "caption": "angle is 10 iteration is 24 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "amoeba_angle_25_iter_8.png", "caption": "angle is 25 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "flagella_angle_15_iter_74.png", "caption": "angle is 15 iteration is 74 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "wormly_angle_175_iter_10.png", "caption": "angle is 175 iteration is 10 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "stargaze_angle_170_iter_20.png", "caption": "angle is 170 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "spindlethrift_angle_90_iter_28.png", "caption": "angle is 90 iteration is 28 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "the-triffids_angle_160_iter_8.png", "caption": "angle is 160 iteration is 8 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "pollenate_angle_20_iter_24.png", "caption": "angle is 20 iteration is 24 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "re-coil_angle_85_iter_24.png", "caption": "angle is 85 iteration is 24 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_175_iter_10.png", "caption": "angle is 175 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "the-slug_angle_105_iter_28.png", "caption": "angle is 105 iteration is 28 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "bubble-trouble_angle_170_iter_38.png", "caption": "angle is 170 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "tornado_angle_30_iter_12.png", "caption": "angle is 30 iteration is 12 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "fire!_angle_45_iter_6.png", "caption": "angle is 45 iteration is 6 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "ordered-chaos_angle_165_iter_6.png", "caption": "angle is 165 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "bubble-trouble_angle_75_iter_38.png", "caption": "angle is 75 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "wormly_angle_65_iter_8.png", "caption": "angle is 65 iteration is 8 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "3d-pyramids_angle_170_iter_24.png", "caption": "angle is 170 iteration is 24 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "leviathon_angle_70_iter_25.png", "caption": "angle is 70 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "samurai_angle_35_iter_29.png", "caption": "angle is 35 iteration is 29 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "tree-horse_angle_35_iter_8.png", "caption": "angle is 35 iteration is 8 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "mortal-coil_angle_20_iter_34.png", "caption": "angle is 20 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "twistmas-tree_angle_90_iter_30.png", "caption": "angle is 90 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "pollenate_angle_40_iter_26.png", "caption": "angle is 40 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "clover_angle_135_iter_70.png", "caption": "angle is 135 iteration is 70 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "house-rules_angle_65_iter_20.png", "caption": "angle is 65 iteration is 20 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "flyweight_angle_130_iter_20.png", "caption": "angle is 130 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "spin-engine_angle_175_iter_18.png", "caption": "angle is 175 iteration is 18 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "trifecta_angle_105_iter_50.png", "caption": "angle is 105 iteration is 50 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "try-force_angle_165_iter_10.png", "caption": "angle is 165 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "wigglesaur_angle_5_iter_25.png", "caption": "angle is 5 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "tree-horse_angle_85_iter_6.png", "caption": "angle is 85 iteration is 6 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "the-bomb_angle_115_iter_76.png", "caption": "angle is 115 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "coral_angle_35_iter_10.png", "caption": "angle is 35 iteration is 10 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "stargaze_angle_165_iter_26.png", "caption": "angle is 165 iteration is 26 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "the-park-at-night_angle_165_iter_6.png", "caption": "angle is 165 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "clockwork_angle_140_iter_10.png", "caption": "angle is 140 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "fire!_angle_115_iter_4.png", "caption": "angle is 115 iteration is 4 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "dance-for-me_angle_55_iter_30.png", "caption": "angle is 55 iteration is 30 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "coral_angle_60_iter_8.png", "caption": "angle is 60 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "battling-dragon-tails_angle_125_iter_25.png", "caption": "angle is 125 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "heisenberg_angle_10_iter_2.png", "caption": "angle is 10 iteration is 2 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "pollenate_angle_50_iter_28.png", "caption": "angle is 50 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "snapdragon_angle_80_iter_27.png", "caption": "angle is 80 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "snake-charmer_angle_65_iter_26.png", "caption": "angle is 65 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "dance-for-me_angle_90_iter_32.png", "caption": "angle is 90 iteration is 32 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "crystal-orchid_angle_150_iter_25.png", "caption": "angle is 150 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "manta-ray_angle_135_iter_76.png", "caption": "angle is 135 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "tornado_angle_170_iter_18.png", "caption": "angle is 170 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "try-force_angle_75_iter_10.png", "caption": "angle is 75 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "jamiroquai---rippletwist_angle_10_iter_27.png", "caption": "angle is 10 iteration is 27 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "slamurai_angle_5_iter_98.png", "caption": "angle is 5 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "johnny-lee_angle_85_iter_26.png", "caption": "angle is 85 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "heisenberg_angle_155_iter_2.png", "caption": "angle is 155 iteration is 2 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "amoeba_angle_175_iter_2.png", "caption": "angle is 175 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "flagella_angle_160_iter_72.png", "caption": "angle is 160 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "rorschach_angle_75_iter_2.png", "caption": "angle is 75 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "twistmas-tree_angle_135_iter_36.png", "caption": "angle is 135 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "fire!_angle_175_iter_12.png", "caption": "angle is 175 iteration is 12 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "slamurai_angle_100_iter_94.png", "caption": "angle is 100 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_45_iter_4.png", "caption": "angle is 45 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "manta-ray_angle_35_iter_74.png", "caption": "angle is 35 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "johnny-lee_angle_145_iter_20.png", "caption": "angle is 145 iteration is 20 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "the-slug_angle_100_iter_28.png", "caption": "angle is 100 iteration is 28 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "gemini_angle_155_iter_98.png", "caption": "angle is 155 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "house-rules_angle_170_iter_22.png", "caption": "angle is 170 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "flagella_angle_175_iter_78.png", "caption": "angle is 175 iteration is 78 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "mortal-coil_angle_95_iter_42.png", "caption": "angle is 95 iteration is 42 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "coral_angle_30_iter_8.png", "caption": "angle is 30 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "snapdragon_angle_70_iter_27.png", "caption": "angle is 70 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_165_iter_6.png", "caption": "angle is 165 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "house-rules_angle_35_iter_22.png", "caption": "angle is 35 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "manta-ray_angle_95_iter_70.png", "caption": "angle is 95 iteration is 70 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "brainchild_angle_60_iter_8.png", "caption": "angle is 60 iteration is 8 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "3d-tusk---gearspin_angle_5_iter_15.png", "caption": "angle is 5 iteration is 15 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "clockwork_angle_155_iter_10.png", "caption": "angle is 155 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "heisenberg_angle_90_iter_6.png", "caption": "angle is 90 iteration is 6 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "trigon_angle_115_iter_10.png", "caption": "angle is 115 iteration is 10 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "heisenberg_angle_170_iter_2.png", "caption": "angle is 170 iteration is 2 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "platterstar_angle_40_iter_194.png", "caption": "angle is 40 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "twistmas-tree_angle_65_iter_32.png", "caption": "angle is 65 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "bubble-trouble_angle_65_iter_32.png", "caption": "angle is 65 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "3d-pyramids_angle_115_iter_26.png", "caption": "angle is 115 iteration is 26 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "ordered-chaos_angle_120_iter_6.png", "caption": "angle is 120 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "flagella_angle_85_iter_72.png", "caption": "angle is 85 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "flyweight_angle_150_iter_20.png", "caption": "angle is 150 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "leviathon_angle_65_iter_27.png", "caption": "angle is 65 iteration is 27 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "dragon-spirograph_angle_85_iter_96.png", "caption": "angle is 85 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "pollenate_angle_25_iter_22.png", "caption": "angle is 25 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "platterstar_angle_95_iter_194.png", "caption": "angle is 95 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "bubble-trouble_angle_70_iter_38.png", "caption": "angle is 70 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "mortal-coil_angle_10_iter_36.png", "caption": "angle is 10 iteration is 36 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "spirocopter_angle_155_iter_38.png", "caption": "angle is 155 iteration is 38 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "politic_angle_115_iter_19.png", "caption": "angle is 115 iteration is 19 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "3d-pyramids_angle_170_iter_30.png", "caption": "angle is 170 iteration is 30 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "stargaze_angle_50_iter_20.png", "caption": "angle is 50 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "trigon_angle_70_iter_10.png", "caption": "angle is 70 iteration is 10 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "gemini_angle_105_iter_98.png", "caption": "angle is 105 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "ornate-clock_angle_130_iter_78.png", "caption": "angle is 130 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "the-triffids_angle_95_iter_8.png", "caption": "angle is 95 iteration is 8 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "gears_angle_50_iter_21.png", "caption": "angle is 50 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "rorschach_angle_10_iter_8.png", "caption": "angle is 10 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "amoeba_angle_40_iter_8.png", "caption": "angle is 40 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "the-park-at-night_angle_135_iter_8.png", "caption": "angle is 135 iteration is 8 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "flagella_angle_75_iter_72.png", "caption": "angle is 75 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "snake-charmer_angle_145_iter_28.png", "caption": "angle is 145 iteration is 28 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "dragonfish_angle_135_iter_37.png", "caption": "angle is 135 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "twistmas-tree_angle_60_iter_32.png", "caption": "angle is 60 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "gemini_angle_165_iter_98.png", "caption": "angle is 165 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "pollenate_angle_120_iter_28.png", "caption": "angle is 120 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "bubble-trouble_angle_65_iter_30.png", "caption": "angle is 65 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "clover_angle_85_iter_76.png", "caption": "angle is 85 iteration is 76 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "samurai_angle_40_iter_21.png", "caption": "angle is 40 iteration is 21 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "the-bomb_angle_135_iter_76.png", "caption": "angle is 135 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "wormly_angle_40_iter_4.png", "caption": "angle is 40 iteration is 4 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "pollenate_angle_30_iter_26.png", "caption": "angle is 30 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "3d-pyramids_angle_10_iter_24.png", "caption": "angle is 10 iteration is 24 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "platterstar_angle_70_iter_190.png", "caption": "angle is 70 iteration is 190 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "jamiroquai---rippletwist_angle_170_iter_27.png", "caption": "angle is 170 iteration is 27 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "snapdragon_angle_5_iter_27.png", "caption": "angle is 5 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "clover_angle_170_iter_70.png", "caption": "angle is 170 iteration is 70 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "the-park-at-night_angle_45_iter_10.png", "caption": "angle is 45 iteration is 10 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "dragonfish_angle_60_iter_39.png", "caption": "angle is 60 iteration is 39 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "pulse-engine_angle_150_iter_30.png", "caption": "angle is 150 iteration is 30 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "3d-pyramids_angle_115_iter_24.png", "caption": "angle is 115 iteration is 24 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "try-force_angle_90_iter_10.png", "caption": "angle is 90 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "3d-pyramids_angle_70_iter_28.png", "caption": "angle is 70 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "brainchild_angle_65_iter_6.png", "caption": "angle is 65 iteration is 6 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "clover_angle_65_iter_72.png", "caption": "angle is 65 iteration is 72 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "3d-tusk---gearspin_angle_100_iter_15.png", "caption": "angle is 100 iteration is 15 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "manta-ray_angle_95_iter_78.png", "caption": "angle is 95 iteration is 78 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "manta-ray_angle_65_iter_70.png", "caption": "angle is 65 iteration is 70 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "platterstar_angle_55_iter_198.png", "caption": "angle is 55 iteration is 198 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "dance-for-me_angle_125_iter_38.png", "caption": "angle is 125 iteration is 38 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "flagella_angle_60_iter_70.png", "caption": "angle is 60 iteration is 70 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_125_iter_2.png", "caption": "angle is 125 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "crystal-orchid_angle_75_iter_21.png", "caption": "angle is 75 iteration is 21 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "jamiroquai---rippletwist_angle_175_iter_23.png", "caption": "angle is 175 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "ordered-chaos_angle_60_iter_8.png", "caption": "angle is 60 iteration is 8 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "trigon_angle_140_iter_2.png", "caption": "angle is 140 iteration is 2 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "rorschach_angle_35_iter_4.png", "caption": "angle is 35 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "pollenate_angle_85_iter_28.png", "caption": "angle is 85 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "the-bomb_angle_135_iter_70.png", "caption": "angle is 135 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "leviathon_angle_80_iter_29.png", "caption": "angle is 80 iteration is 29 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "crystal-orchid_angle_70_iter_23.png", "caption": "angle is 70 iteration is 23 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "metamorphosis_angle_170_iter_36.png", "caption": "angle is 170 iteration is 36 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "slamurai_angle_175_iter_96.png", "caption": "angle is 175 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "spin-engine_angle_125_iter_18.png", "caption": "angle is 125 iteration is 18 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "tornado_angle_115_iter_14.png", "caption": "angle is 115 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "dragonfish_angle_90_iter_31.png", "caption": "angle is 90 iteration is 31 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "spirocopter_angle_25_iter_36.png", "caption": "angle is 25 iteration is 36 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "coral_angle_95_iter_8.png", "caption": "angle is 95 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "slamurai_angle_175_iter_90.png", "caption": "angle is 175 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "the-slug_angle_110_iter_22.png", "caption": "angle is 110 iteration is 22 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "twistmas-tree_angle_175_iter_38.png", "caption": "angle is 175 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "rorschach_angle_65_iter_6.png", "caption": "angle is 65 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "wigglesaur_angle_20_iter_27.png", "caption": "angle is 20 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "pollenate_angle_165_iter_20.png", "caption": "angle is 165 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "snapdragon_angle_70_iter_29.png", "caption": "angle is 70 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "manta-ray_angle_110_iter_74.png", "caption": "angle is 110 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "metamorphosis_angle_115_iter_32.png", "caption": "angle is 115 iteration is 32 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "ordered-chaos_angle_110_iter_6.png", "caption": "angle is 110 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "coral_angle_100_iter_10.png", "caption": "angle is 100 iteration is 10 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "the-slug_angle_30_iter_22.png", "caption": "angle is 30 iteration is 22 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "fire!_angle_130_iter_4.png", "caption": "angle is 130 iteration is 4 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "pulse-engine_angle_130_iter_38.png", "caption": "angle is 130 iteration is 38 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "rorschach_angle_90_iter_6.png", "caption": "angle is 90 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "the-bomb_angle_135_iter_78.png", "caption": "angle is 135 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "metamorphosis_angle_55_iter_32.png", "caption": "angle is 55 iteration is 32 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "battling-dragon-tails_angle_105_iter_27.png", "caption": "angle is 105 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "gemini_angle_135_iter_92.png", "caption": "angle is 135 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "3d-tusk---gearspin_angle_165_iter_19.png", "caption": "angle is 165 iteration is 19 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-slug_angle_90_iter_28.png", "caption": "angle is 90 iteration is 28 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "pulse-engine_angle_170_iter_32.png", "caption": "angle is 170 iteration is 32 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_155_iter_2.png", "caption": "angle is 155 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "platterstar_angle_120_iter_190.png", "caption": "angle is 120 iteration is 190 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "samurai_angle_175_iter_25.png", "caption": "angle is 175 iteration is 25 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragonfish_angle_55_iter_33.png", "caption": "angle is 55 iteration is 33 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "coral_angle_25_iter_8.png", "caption": "angle is 25 iteration is 8 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "the-slug_angle_35_iter_24.png", "caption": "angle is 35 iteration is 24 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "spin-engine_angle_55_iter_12.png", "caption": "angle is 55 iteration is 12 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "trigon_angle_165_iter_6.png", "caption": "angle is 165 iteration is 6 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "pollenate_angle_50_iter_20.png", "caption": "angle is 50 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "flyweight_angle_135_iter_20.png", "caption": "angle is 135 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "trigon_angle_40_iter_4.png", "caption": "angle is 40 iteration is 4 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "johnny-lee_angle_65_iter_24.png", "caption": "angle is 65 iteration is 24 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "jamiroquai---rippletwist_angle_145_iter_31.png", "caption": "angle is 145 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "wormly_angle_100_iter_8.png", "caption": "angle is 100 iteration is 8 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "fire!_angle_140_iter_10.png", "caption": "angle is 140 iteration is 10 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "house-rules_angle_110_iter_20.png", "caption": "angle is 110 iteration is 20 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "wormly_angle_25_iter_10.png", "caption": "angle is 25 iteration is 10 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "the-bomb_angle_65_iter_78.png", "caption": "angle is 65 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "the-bomb_angle_100_iter_76.png", "caption": "angle is 100 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "johnny-lee_angle_135_iter_20.png", "caption": "angle is 135 iteration is 20 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "rorschach_angle_130_iter_8.png", "caption": "angle is 130 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "flagella_angle_70_iter_76.png", "caption": "angle is 70 iteration is 76 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "the-DNA-dance_angle_70_iter_26.png", "caption": "angle is 70 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "rorschach_angle_170_iter_8.png", "caption": "angle is 170 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "pollenate_angle_135_iter_20.png", "caption": "angle is 135 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "heisenberg_angle_125_iter_8.png", "caption": "angle is 125 iteration is 8 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "3d-pyramids_angle_160_iter_22.png", "caption": "angle is 160 iteration is 22 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "crystal-orchid_angle_40_iter_29.png", "caption": "angle is 40 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "3d-pyramids_angle_165_iter_28.png", "caption": "angle is 165 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "samurai_angle_45_iter_21.png", "caption": "angle is 45 iteration is 21 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wigglesaur_angle_65_iter_29.png", "caption": "angle is 65 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "pollenate_angle_145_iter_22.png", "caption": "angle is 145 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "flagella_angle_50_iter_70.png", "caption": "angle is 50 iteration is 70 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "trifecta_angle_80_iter_54.png", "caption": "angle is 80 iteration is 54 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "clockwork_angle_170_iter_8.png", "caption": "angle is 170 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "crystal-orchid_angle_30_iter_29.png", "caption": "angle is 30 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "leviathon_angle_100_iter_31.png", "caption": "angle is 100 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "clockwork_angle_80_iter_10.png", "caption": "angle is 80 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "the-park-at-night_angle_45_iter_4.png", "caption": "angle is 45 iteration is 4 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "ornate-clock_angle_70_iter_78.png", "caption": "angle is 70 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "the-slug_angle_70_iter_20.png", "caption": "angle is 70 iteration is 20 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "trigon_angle_80_iter_2.png", "caption": "angle is 80 iteration is 2 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "dragonfish_angle_10_iter_35.png", "caption": "angle is 10 iteration is 35 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "the-triffids_angle_135_iter_10.png", "caption": "angle is 135 iteration is 10 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "trifecta_angle_110_iter_58.png", "caption": "angle is 110 iteration is 58 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "the-DNA-dance_angle_165_iter_26.png", "caption": "angle is 165 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "dragon-spirograph_angle_95_iter_90.png", "caption": "angle is 95 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "amoeba_angle_95_iter_2.png", "caption": "angle is 95 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "trifecta_angle_60_iter_58.png", "caption": "angle is 60 iteration is 58 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "clockwork_angle_170_iter_2.png", "caption": "angle is 170 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "samurai_angle_100_iter_23.png", "caption": "angle is 100 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "pollenate_angle_80_iter_22.png", "caption": "angle is 80 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "slamurai_angle_105_iter_90.png", "caption": "angle is 105 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "the-triffids_angle_140_iter_8.png", "caption": "angle is 140 iteration is 8 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "clockwork_angle_40_iter_10.png", "caption": "angle is 40 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "ordered-chaos_angle_145_iter_10.png", "caption": "angle is 145 iteration is 10 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "trifecta_angle_155_iter_50.png", "caption": "angle is 155 iteration is 50 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "pulse-engine_angle_130_iter_36.png", "caption": "angle is 130 iteration is 36 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "ornate-clock_angle_140_iter_70.png", "caption": "angle is 140 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "spin-engine_angle_35_iter_18.png", "caption": "angle is 35 iteration is 18 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "slamurai_angle_125_iter_94.png", "caption": "angle is 125 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "flagella_angle_55_iter_78.png", "caption": "angle is 55 iteration is 78 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "twistmas-tree_angle_175_iter_34.png", "caption": "angle is 175 iteration is 34 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "bubble-trouble_angle_85_iter_30.png", "caption": "angle is 85 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "trigon_angle_45_iter_6.png", "caption": "angle is 45 iteration is 6 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "clockwork_angle_105_iter_4.png", "caption": "angle is 105 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "spin-engine_angle_150_iter_14.png", "caption": "angle is 150 iteration is 14 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "re-coil_angle_110_iter_26.png", "caption": "angle is 110 iteration is 26 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "snake-charmer_angle_30_iter_22.png", "caption": "angle is 30 iteration is 22 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "dragonfish_angle_105_iter_37.png", "caption": "angle is 105 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragon-spirograph_angle_90_iter_90.png", "caption": "angle is 90 iteration is 90 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "jamiroquai---rippletwist_angle_110_iter_31.png", "caption": "angle is 110 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "bubble-trouble_angle_45_iter_38.png", "caption": "angle is 45 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "angel-flight_angle_155_iter_40.png", "caption": "angle is 155 iteration is 40 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "gemini_angle_20_iter_92.png", "caption": "angle is 20 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "angel-flight_angle_125_iter_34.png", "caption": "angle is 125 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "re-coil_angle_105_iter_26.png", "caption": "angle is 105 iteration is 26 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "metamorphosis_angle_115_iter_30.png", "caption": "angle is 115 iteration is 30 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "trifecta_angle_5_iter_50.png", "caption": "angle is 5 iteration is 50 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "stargaze_angle_40_iter_26.png", "caption": "angle is 40 iteration is 26 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "try-force_angle_50_iter_4.png", "caption": "angle is 50 iteration is 4 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "gemini_angle_70_iter_98.png", "caption": "angle is 70 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "flagella_angle_120_iter_72.png", "caption": "angle is 120 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "politic_angle_140_iter_19.png", "caption": "angle is 140 iteration is 19 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "snapdragon_angle_105_iter_25.png", "caption": "angle is 105 iteration is 25 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "the-DNA-dance_angle_160_iter_22.png", "caption": "angle is 160 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "fire!_angle_35_iter_6.png", "caption": "angle is 35 iteration is 6 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "the-bomb_angle_105_iter_72.png", "caption": "angle is 105 iteration is 72 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "the-DNA-dance_angle_50_iter_26.png", "caption": "angle is 50 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "rorschach_angle_150_iter_10.png", "caption": "angle is 150 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "stargaze_angle_160_iter_20.png", "caption": "angle is 160 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "battling-dragon-tails_angle_155_iter_25.png", "caption": "angle is 155 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "brainchild_angle_155_iter_10.png", "caption": "angle is 155 iteration is 10 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "3d-tusk---gearspin_angle_155_iter_17.png", "caption": "angle is 155 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "politic_angle_65_iter_19.png", "caption": "angle is 65 iteration is 19 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "amoeba_angle_90_iter_8.png", "caption": "angle is 90 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_75_iter_6.png", "caption": "angle is 75 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "battling-dragon-tails_angle_70_iter_25.png", "caption": "angle is 70 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "pollenate_angle_35_iter_26.png", "caption": "angle is 35 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "try-force_angle_55_iter_8.png", "caption": "angle is 55 iteration is 8 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "single-3d-blade_angle_145_iter_23.png", "caption": "angle is 145 iteration is 23 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "platterstar_angle_150_iter_194.png", "caption": "angle is 150 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "try-force_angle_110_iter_10.png", "caption": "angle is 110 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "pollenate_angle_135_iter_28.png", "caption": "angle is 135 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "3d-tusk---gearspin_angle_125_iter_11.png", "caption": "angle is 125 iteration is 11 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "samurai_angle_155_iter_21.png", "caption": "angle is 155 iteration is 21 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "manta-ray_angle_40_iter_76.png", "caption": "angle is 40 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "platterstar_angle_120_iter_196.png", "caption": "angle is 120 iteration is 196 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "3d-pyramids_angle_105_iter_30.png", "caption": "angle is 105 iteration is 30 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wigglesaur_angle_30_iter_25.png", "caption": "angle is 30 iteration is 25 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "amoeba_angle_95_iter_4.png", "caption": "angle is 95 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "twistmas-tree_angle_20_iter_32.png", "caption": "angle is 20 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "stargaze_angle_125_iter_20.png", "caption": "angle is 125 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "flagella_angle_60_iter_76.png", "caption": "angle is 60 iteration is 76 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "the-park-at-night_angle_170_iter_6.png", "caption": "angle is 170 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "tree-horse_angle_65_iter_10.png", "caption": "angle is 65 iteration is 10 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "wormly_angle_75_iter_4.png", "caption": "angle is 75 iteration is 4 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "pulse-engine_angle_105_iter_34.png", "caption": "angle is 105 iteration is 34 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "trifecta_angle_110_iter_54.png", "caption": "angle is 110 iteration is 54 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "wormly_angle_15_iter_6.png", "caption": "angle is 15 iteration is 6 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "trigon_angle_165_iter_10.png", "caption": "angle is 165 iteration is 10 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "re-coil_angle_155_iter_24.png", "caption": "angle is 155 iteration is 24 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "the-bomb_angle_60_iter_78.png", "caption": "angle is 60 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "3d-pyramids_angle_15_iter_30.png", "caption": "angle is 15 iteration is 30 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "gemini_angle_115_iter_98.png", "caption": "angle is 115 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "battling-dragon-tails_angle_165_iter_25.png", "caption": "angle is 165 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "trigon_angle_80_iter_10.png", "caption": "angle is 80 iteration is 10 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_135_iter_11.png", "caption": "angle is 135 iteration is 11 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "battling-dragon-tails_angle_35_iter_21.png", "caption": "angle is 35 iteration is 21 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "tree-horse_angle_55_iter_6.png", "caption": "angle is 55 iteration is 6 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "clockwork_angle_155_iter_2.png", "caption": "angle is 155 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "mortal-coil_angle_155_iter_34.png", "caption": "angle is 155 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "fire!_angle_160_iter_8.png", "caption": "angle is 160 iteration is 8 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "the-DNA-dance_angle_140_iter_26.png", "caption": "angle is 140 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "manta-ray_angle_15_iter_74.png", "caption": "angle is 15 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "the-bomb_angle_160_iter_76.png", "caption": "angle is 160 iteration is 76 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "the-DNA-dance_angle_120_iter_20.png", "caption": "angle is 120 iteration is 20 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "stargaze_angle_175_iter_28.png", "caption": "angle is 175 iteration is 28 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "politic_angle_130_iter_15.png", "caption": "angle is 130 iteration is 15 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "platterstar_angle_80_iter_194.png", "caption": "angle is 80 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "angel-flight_angle_105_iter_42.png", "caption": "angle is 105 iteration is 42 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "rorschach_angle_95_iter_6.png", "caption": "angle is 95 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "single-3d-blade_angle_40_iter_21.png", "caption": "angle is 40 iteration is 21 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-bomb_angle_110_iter_78.png", "caption": "angle is 110 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "samurai_angle_50_iter_23.png", "caption": "angle is 50 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wigglesaur_angle_170_iter_29.png", "caption": "angle is 170 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "try-force_angle_15_iter_10.png", "caption": "angle is 15 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "amoeba_angle_175_iter_6.png", "caption": "angle is 175 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "ornate-clock_angle_95_iter_70.png", "caption": "angle is 95 iteration is 70 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "3d-tusk---gearspin_angle_10_iter_15.png", "caption": "angle is 10 iteration is 15 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "snake-charmer_angle_40_iter_24.png", "caption": "angle is 40 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "dragonfish_angle_55_iter_39.png", "caption": "angle is 55 iteration is 39 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "metamorphosis_angle_15_iter_36.png", "caption": "angle is 15 iteration is 36 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "bubble-trouble_angle_160_iter_30.png", "caption": "angle is 160 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "manta-ray_angle_80_iter_78.png", "caption": "angle is 80 iteration is 78 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "leviathon_angle_40_iter_23.png", "caption": "angle is 40 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "clockwork_angle_30_iter_6.png", "caption": "angle is 30 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "3d-tusk---gearspin_angle_65_iter_17.png", "caption": "angle is 65 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "pollenate_angle_170_iter_28.png", "caption": "angle is 170 iteration is 28 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "3d-tusk---gearspin_angle_140_iter_19.png", "caption": "angle is 140 iteration is 19 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "pulse-engine_angle_75_iter_32.png", "caption": "angle is 75 iteration is 32 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "tornado_angle_5_iter_14.png", "caption": "angle is 5 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "platterstar_angle_80_iter_192.png", "caption": "angle is 80 iteration is 192 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "twistmas-tree_angle_40_iter_30.png", "caption": "angle is 40 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "jamiroquai---rippletwist_angle_60_iter_31.png", "caption": "angle is 60 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "gears_angle_165_iter_27.png", "caption": "angle is 165 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "amoeba_angle_140_iter_10.png", "caption": "angle is 140 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "samurai_angle_55_iter_23.png", "caption": "angle is 55 iteration is 23 grammar is S : A B A B A B A next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "the-park-at-night_angle_90_iter_10.png", "caption": "angle is 90 iteration is 10 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "brainchild_angle_130_iter_12.png", "caption": "angle is 130 iteration is 12 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "trifecta_angle_115_iter_52.png", "caption": "angle is 115 iteration is 52 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "coral_angle_55_iter_12.png", "caption": "angle is 55 iteration is 12 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "3d-pyramids_angle_120_iter_28.png", "caption": "angle is 120 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "brainchild_angle_125_iter_10.png", "caption": "angle is 125 iteration is 10 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "mortal-coil_angle_170_iter_36.png", "caption": "angle is 170 iteration is 36 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "coral_angle_70_iter_10.png", "caption": "angle is 70 iteration is 10 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "clockwork_angle_60_iter_4.png", "caption": "angle is 60 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "stargaze_angle_115_iter_20.png", "caption": "angle is 115 iteration is 20 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "gears_angle_20_iter_27.png", "caption": "angle is 20 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "slamurai_angle_120_iter_92.png", "caption": "angle is 120 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "leviathon_angle_75_iter_25.png", "caption": "angle is 75 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "clockwork_angle_70_iter_4.png", "caption": "angle is 70 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : S next "}
+{"file_name": "rorschach_angle_115_iter_4.png", "caption": "angle is 115 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "flyweight_angle_15_iter_22.png", "caption": "angle is 15 iteration is 22 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "dragon-spirograph_angle_10_iter_96.png", "caption": "angle is 10 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "flagella_angle_65_iter_76.png", "caption": "angle is 65 iteration is 76 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "twistmas-tree_angle_55_iter_36.png", "caption": "angle is 55 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "dragonfish_angle_40_iter_35.png", "caption": "angle is 40 iteration is 35 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "gears_angle_125_iter_23.png", "caption": "angle is 125 iteration is 23 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "battling-dragon-tails_angle_130_iter_27.png", "caption": "angle is 130 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "snake-charmer_angle_15_iter_28.png", "caption": "angle is 15 iteration is 28 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "pulse-engine_angle_135_iter_30.png", "caption": "angle is 135 iteration is 30 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "wormly_angle_80_iter_10.png", "caption": "angle is 80 iteration is 10 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "dragonfish_angle_140_iter_31.png", "caption": "angle is 140 iteration is 31 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "pollenate_angle_145_iter_24.png", "caption": "angle is 145 iteration is 24 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "pulse-engine_angle_75_iter_38.png", "caption": "angle is 75 iteration is 38 grammar is S : [ A ] C F S next A : B ! A next B : F + B | - next C : D C E next D : D next E : E next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_115_iter_6.png", "caption": "angle is 115 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "politic_angle_90_iter_23.png", "caption": "angle is 90 iteration is 23 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "the-DNA-dance_angle_95_iter_20.png", "caption": "angle is 95 iteration is 20 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "amoeba_angle_100_iter_10.png", "caption": "angle is 100 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "trifecta_angle_5_iter_56.png", "caption": "angle is 5 iteration is 56 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "tornado_angle_40_iter_18.png", "caption": "angle is 40 iteration is 18 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "metamorphosis_angle_85_iter_36.png", "caption": "angle is 85 iteration is 36 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "tree-horse_angle_105_iter_10.png", "caption": "angle is 105 iteration is 10 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "coral_angle_75_iter_16.png", "caption": "angle is 75 iteration is 16 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "slamurai_angle_15_iter_92.png", "caption": "angle is 15 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "dance-for-me_angle_20_iter_38.png", "caption": "angle is 20 iteration is 38 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "try-force_angle_55_iter_2.png", "caption": "angle is 55 iteration is 2 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "stargaze_angle_125_iter_26.png", "caption": "angle is 125 iteration is 26 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "rorschach_angle_150_iter_2.png", "caption": "angle is 150 iteration is 2 grammar is S : F F F A [ + S ] [ - S ] F S next A : A next "}
+{"file_name": "coral_angle_105_iter_10.png", "caption": "angle is 105 iteration is 10 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "the-DNA-dance_angle_10_iter_22.png", "caption": "angle is 10 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "dance-for-me_angle_45_iter_30.png", "caption": "angle is 45 iteration is 30 grammar is S : [ A ] F | S next A : ! B A ! B - F next B : - B F + next "}
+{"file_name": "ornate-clock_angle_85_iter_78.png", "caption": "angle is 85 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_150_iter_10.png", "caption": "angle is 150 iteration is 10 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "tornado_angle_165_iter_14.png", "caption": "angle is 165 iteration is 14 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "metamorphosis_angle_135_iter_38.png", "caption": "angle is 135 iteration is 38 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "the-DNA-dance_angle_40_iter_26.png", "caption": "angle is 40 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "flagella_angle_50_iter_72.png", "caption": "angle is 50 iteration is 72 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "amoeba_angle_15_iter_6.png", "caption": "angle is 15 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "snake-charmer_angle_60_iter_28.png", "caption": "angle is 60 iteration is 28 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "try-force_angle_95_iter_10.png", "caption": "angle is 95 iteration is 10 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "coalescence_angle_40_iter_198.png", "caption": "angle is 40 iteration is 198 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "trigon_angle_100_iter_4.png", "caption": "angle is 100 iteration is 4 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "the-triffids_angle_70_iter_6.png", "caption": "angle is 70 iteration is 6 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "dragonfish_angle_100_iter_33.png", "caption": "angle is 100 iteration is 33 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "house-rules_angle_70_iter_22.png", "caption": "angle is 70 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "ornate-clock_angle_125_iter_74.png", "caption": "angle is 125 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "the-triffids_angle_170_iter_4.png", "caption": "angle is 170 iteration is 4 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "bubble-trouble_angle_125_iter_32.png", "caption": "angle is 125 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "tree-horse_angle_15_iter_6.png", "caption": "angle is 15 iteration is 6 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "the-DNA-dance_angle_85_iter_22.png", "caption": "angle is 85 iteration is 22 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "trigon_angle_120_iter_4.png", "caption": "angle is 120 iteration is 4 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "wigglesaur_angle_15_iter_29.png", "caption": "angle is 15 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "fire!_angle_130_iter_10.png", "caption": "angle is 130 iteration is 10 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "bubble-trouble_angle_150_iter_30.png", "caption": "angle is 150 iteration is 30 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "wormly_angle_130_iter_6.png", "caption": "angle is 130 iteration is 6 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "battling-dragon-tails_angle_140_iter_29.png", "caption": "angle is 140 iteration is 29 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "re-coil_angle_60_iter_22.png", "caption": "angle is 60 iteration is 22 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "fire!_angle_45_iter_4.png", "caption": "angle is 45 iteration is 4 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "3d-tusk---gearspin_angle_50_iter_13.png", "caption": "angle is 50 iteration is 13 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "mortal-coil_angle_15_iter_42.png", "caption": "angle is 15 iteration is 42 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "stargaze_angle_20_iter_22.png", "caption": "angle is 20 iteration is 22 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "angel-flight_angle_175_iter_36.png", "caption": "angle is 175 iteration is 36 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "gears_angle_80_iter_29.png", "caption": "angle is 80 iteration is 29 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - ! B next B : [ | F - F + + B ] next "}
+{"file_name": "slamurai_angle_170_iter_92.png", "caption": "angle is 170 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "angel-flight_angle_15_iter_36.png", "caption": "angle is 15 iteration is 36 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C : + next "}
+{"file_name": "snake-charmer_angle_170_iter_26.png", "caption": "angle is 170 iteration is 26 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "house-rules_angle_5_iter_28.png", "caption": "angle is 5 iteration is 28 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "fire!_angle_100_iter_12.png", "caption": "angle is 100 iteration is 12 grammar is S : A next A : F | + [ F B A ] next B : F [ - F - F B ] + ! B next "}
+{"file_name": "single-3d-blade_angle_155_iter_25.png", "caption": "angle is 155 iteration is 25 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "the-triffids_angle_175_iter_10.png", "caption": "angle is 175 iteration is 10 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "crystal-orchid_angle_150_iter_29.png", "caption": "angle is 150 iteration is 29 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F F F - F + B ] next "}
+{"file_name": "the-park-at-night_angle_160_iter_6.png", "caption": "angle is 160 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "coral_angle_155_iter_12.png", "caption": "angle is 155 iteration is 12 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "snake-charmer_angle_35_iter_24.png", "caption": "angle is 35 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "spirocopter_angle_150_iter_36.png", "caption": "angle is 150 iteration is 36 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "battling-dragon-tails_angle_30_iter_29.png", "caption": "angle is 30 iteration is 29 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "trifecta_angle_70_iter_52.png", "caption": "angle is 70 iteration is 52 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "metamorphosis_angle_65_iter_36.png", "caption": "angle is 65 iteration is 36 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "ornate-clock_angle_160_iter_74.png", "caption": "angle is 160 iteration is 74 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "spindlethrift_angle_155_iter_28.png", "caption": "angle is 155 iteration is 28 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "manta-ray_angle_170_iter_72.png", "caption": "angle is 170 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "leviathon_angle_90_iter_25.png", "caption": "angle is 90 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "ornate-clock_angle_140_iter_78.png", "caption": "angle is 140 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - F B ] + ! next "}
+{"file_name": "house-rules_angle_95_iter_20.png", "caption": "angle is 95 iteration is 20 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_30_iter_8.png", "caption": "angle is 30 iteration is 8 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_100_iter_6.png", "caption": "angle is 100 iteration is 6 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "stargaze_angle_125_iter_22.png", "caption": "angle is 125 iteration is 22 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "manta-ray_angle_80_iter_76.png", "caption": "angle is 80 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "ordered-chaos_angle_60_iter_2.png", "caption": "angle is 60 iteration is 2 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "snapdragon_angle_170_iter_21.png", "caption": "angle is 170 iteration is 21 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "brainchild_angle_10_iter_6.png", "caption": "angle is 10 iteration is 6 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "politic_angle_15_iter_23.png", "caption": "angle is 15 iteration is 23 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "leviathon_angle_65_iter_25.png", "caption": "angle is 65 iteration is 25 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "slamurai_angle_145_iter_96.png", "caption": "angle is 145 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "platterstar_angle_60_iter_194.png", "caption": "angle is 60 iteration is 194 grammar is S : A A A A A A next A : | + [ F [ A ] ] | next "}
+{"file_name": "amoeba_angle_35_iter_4.png", "caption": "angle is 35 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] S next A : A next "}
+{"file_name": "spindlethrift_angle_155_iter_24.png", "caption": "angle is 155 iteration is 24 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "manta-ray_angle_120_iter_76.png", "caption": "angle is 120 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "coral_angle_65_iter_12.png", "caption": "angle is 65 iteration is 12 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F F F + | + B ] + next C : F C + F + | S + next "}
+{"file_name": "clover_angle_165_iter_72.png", "caption": "angle is 165 iteration is 72 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "bubble-trouble_angle_90_iter_36.png", "caption": "angle is 90 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "spindlethrift_angle_115_iter_22.png", "caption": "angle is 115 iteration is 22 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "3d-tusk---gearspin_angle_10_iter_13.png", "caption": "angle is 10 iteration is 13 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "leviathon_angle_90_iter_23.png", "caption": "angle is 90 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "the-DNA-dance_angle_65_iter_28.png", "caption": "angle is 65 iteration is 28 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "spin-engine_angle_110_iter_10.png", "caption": "angle is 110 iteration is 10 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "gemini_angle_85_iter_94.png", "caption": "angle is 85 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "ordered-chaos_angle_75_iter_6.png", "caption": "angle is 75 iteration is 6 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "try-force_angle_40_iter_4.png", "caption": "angle is 40 iteration is 4 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "wormly_angle_80_iter_2.png", "caption": "angle is 80 iteration is 2 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "the-DNA-dance_angle_110_iter_28.png", "caption": "angle is 110 iteration is 28 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "brainchild_angle_25_iter_6.png", "caption": "angle is 25 iteration is 6 grammar is S : A next A : C - F | + [ B A ] next B : F [ - | B ] + ! B next C : + + + next "}
+{"file_name": "gemini_angle_85_iter_92.png", "caption": "angle is 85 iteration is 92 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "the-slug_angle_60_iter_24.png", "caption": "angle is 60 iteration is 24 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "metamorphosis_angle_105_iter_38.png", "caption": "angle is 105 iteration is 38 grammar is S : [ A ] S next A : ! B F A ! B - next B : - B F + next "}
+{"file_name": "stargaze_angle_110_iter_26.png", "caption": "angle is 110 iteration is 26 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "dragonfish_angle_100_iter_37.png", "caption": "angle is 100 iteration is 37 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "tree-horse_angle_130_iter_4.png", "caption": "angle is 130 iteration is 4 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "tornado_angle_125_iter_10.png", "caption": "angle is 125 iteration is 10 grammar is S : A A A S next A : F [ F - B [ F F F F F F A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "mortal-coil_angle_80_iter_42.png", "caption": "angle is 80 iteration is 42 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "the-DNA-dance_angle_130_iter_20.png", "caption": "angle is 130 iteration is 20 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "manta-ray_angle_160_iter_76.png", "caption": "angle is 160 iteration is 76 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "twistmas-tree_angle_65_iter_36.png", "caption": "angle is 65 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "coalescence_angle_130_iter_194.png", "caption": "angle is 130 iteration is 194 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "manta-ray_angle_95_iter_74.png", "caption": "angle is 95 iteration is 74 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "3d-tusk---gearspin_angle_65_iter_19.png", "caption": "angle is 65 iteration is 19 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "snake-charmer_angle_150_iter_24.png", "caption": "angle is 150 iteration is 24 grammar is S : A | F S next A : B ! A next B : F + + + | B | + F next "}
+{"file_name": "spindlethrift_angle_35_iter_22.png", "caption": "angle is 35 iteration is 22 grammar is S : A A A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "coalescence_angle_140_iter_196.png", "caption": "angle is 140 iteration is 196 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "the-triffids_angle_95_iter_4.png", "caption": "angle is 95 iteration is 4 grammar is S :   A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "clover_angle_125_iter_78.png", "caption": "angle is 125 iteration is 78 grammar is S : A A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | B ] + next "}
+{"file_name": "the-park-at-night_angle_50_iter_6.png", "caption": "angle is 50 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "manta-ray_angle_40_iter_72.png", "caption": "angle is 40 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "wigglesaur_angle_160_iter_21.png", "caption": "angle is 160 iteration is 21 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "trifecta_angle_10_iter_52.png", "caption": "angle is 10 iteration is 52 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - F B ] + ! F next "}
+{"file_name": "mortal-coil_angle_110_iter_34.png", "caption": "angle is 110 iteration is 34 grammar is S : A | C F S next A : B ! A F next B : F | - B | + F next C :  next "}
+{"file_name": "wormly_angle_160_iter_2.png", "caption": "angle is 160 iteration is 2 grammar is S : A | C F S next A : B ! A F ! next B : F | - B | + F next C : ! - next "}
+{"file_name": "pollenate_angle_45_iter_20.png", "caption": "angle is 45 iteration is 20 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - F B ] next C : F C B [ + F ] + B next "}
+{"file_name": "the-slug_angle_45_iter_28.png", "caption": "angle is 45 iteration is 28 grammar is S : A B A next A : F | + [ F - B [ - A ] ] B - B next B : [ | F - F + ! B ] next "}
+{"file_name": "the-DNA-dance_angle_160_iter_26.png", "caption": "angle is 160 iteration is 26 grammar is S : A | F S next A : B ! A next B : F - - - B | + next "}
+{"file_name": "3d-pyramids_angle_100_iter_28.png", "caption": "angle is 100 iteration is 28 grammar is S : A S B next A : F - [ F ! B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "wigglesaur_angle_140_iter_27.png", "caption": "angle is 140 iteration is 27 grammar is S : A B A next A : - | [ F - B [ A ] ] ! next B : [ | F ! F F - F + B ] next "}
+{"file_name": "politic_angle_100_iter_15.png", "caption": "angle is 100 iteration is 15 grammar is S : A A F S next A : F [ F - B [ - F A ] ] next B : [ ! F - F + B ] next "}
+{"file_name": "coalescence_angle_55_iter_190.png", "caption": "angle is 55 iteration is 190 grammar is S : A A A A A next A : | + [ F [ A ] ] next "}
+{"file_name": "heisenberg_angle_5_iter_6.png", "caption": "angle is 5 iteration is 6 grammar is S : F - [ F - A [ S ] ] next A : S | [ | F - F + A ] next "}
+{"file_name": "battling-dragon-tails_angle_105_iter_25.png", "caption": "angle is 105 iteration is 25 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "spin-engine_angle_160_iter_18.png", "caption": "angle is 160 iteration is 18 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "flagella_angle_90_iter_76.png", "caption": "angle is 90 iteration is 76 grammar is S : A A A next A : F | + [ F B [ A ] ] next B : F [ - F - - | F B ] + ! next "}
+{"file_name": "manta-ray_angle_50_iter_72.png", "caption": "angle is 50 iteration is 72 grammar is S : A next A : F | + [ F - B [ A ] ] next B : [ | F - F - - | F B ] + ! next "}
+{"file_name": "slamurai_angle_130_iter_94.png", "caption": "angle is 130 iteration is 94 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + next "}
+{"file_name": "bubble-trouble_angle_155_iter_32.png", "caption": "angle is 155 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "johnny-lee_angle_175_iter_26.png", "caption": "angle is 175 iteration is 26 grammar is S : A next A : F | + [ F - B [ A ] ] F C next B : - - [ | F - F + | + F B ] + next C : F C F [ + F ] B next "}
+{"file_name": "trigon_angle_40_iter_6.png", "caption": "angle is 40 iteration is 6 grammar is S : A A next A : F - [ F - B [ A L ] ] next B : [ - | F - F + B ] next "}
+{"file_name": "3d-tusk---gearspin_angle_15_iter_17.png", "caption": "angle is 15 iteration is 17 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "dragonfish_angle_165_iter_35.png", "caption": "angle is 165 iteration is 35 grammar is S : A B S next A : F - [ F - B [ A + + F F F [ + F + F ] ] next B : F [ | F ! F + B ] - F next "}
+{"file_name": "dragon-spirograph_angle_30_iter_96.png", "caption": "angle is 30 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "the-park-at-night_angle_35_iter_6.png", "caption": "angle is 35 iteration is 6 grammar is S : - | A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "bubble-trouble_angle_95_iter_32.png", "caption": "angle is 95 iteration is 32 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "flyweight_angle_25_iter_26.png", "caption": "angle is 25 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "ordered-chaos_angle_110_iter_2.png", "caption": "angle is 110 iteration is 2 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "helicopter-plant-(drag-left)_angle_65_iter_4.png", "caption": "angle is 65 iteration is 4 grammar is S : F F F A [ + S ] [ - S ] F S B next A : S | next B : + next "}
+{"file_name": "gemini_angle_110_iter_98.png", "caption": "angle is 110 iteration is 98 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - - F - F + F B ] + next "}
+{"file_name": "ordered-chaos_angle_80_iter_8.png", "caption": "angle is 80 iteration is 8 grammar is S : A B A next A : F - [ F - B [ A ] ] next B : [ | F F [ - A ] + B ] next "}
+{"file_name": "leviathon_angle_85_iter_23.png", "caption": "angle is 85 iteration is 23 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
+{"file_name": "bubble-trouble_angle_5_iter_38.png", "caption": "angle is 5 iteration is 38 grammar is S : [ A ] F S next A : ! B A B next B : B F - next "}
+{"file_name": "jamiroquai---rippletwist_angle_60_iter_27.png", "caption": "angle is 60 iteration is 27 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - B | + next C : D C E next D : - next E : ! - next "}
+{"file_name": "spirocopter_angle_5_iter_38.png", "caption": "angle is 5 iteration is 38 grammar is S : S A next A : ! B [ F A ] ! B - next B : - B F + next "}
+{"file_name": "stargaze_angle_95_iter_24.png", "caption": "angle is 95 iteration is 24 grammar is S : A | C F S next A : B A F next B : F | - B | + F next C : + next "}
+{"file_name": "the-bomb_angle_165_iter_78.png", "caption": "angle is 165 iteration is 78 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + + F B ] + ! next "}
+{"file_name": "single-3d-blade_angle_70_iter_29.png", "caption": "angle is 70 iteration is 29 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "snapdragon_angle_175_iter_27.png", "caption": "angle is 175 iteration is 27 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ | F - F + F B ] + next "}
+{"file_name": "spin-engine_angle_95_iter_14.png", "caption": "angle is 95 iteration is 14 grammar is S : A F F A F F S next A : F [ F - B [ - F A ] ] next B : F + B | next "}
+{"file_name": "try-force_angle_170_iter_6.png", "caption": "angle is 170 iteration is 6 grammar is S : A A A next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "re-coil_angle_140_iter_26.png", "caption": "angle is 140 iteration is 26 grammar is S : F + [ F - A [ S ] ] F B next A : - - [ | F - F - - F A ] - next B : F B F [ + F ] + A next "}
+{"file_name": "battling-dragon-tails_angle_90_iter_27.png", "caption": "angle is 90 iteration is 27 grammar is S : A A A A A next A : F + [ F - B [ + A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "single-3d-blade_angle_10_iter_23.png", "caption": "angle is 10 iteration is 23 grammar is S : A next A : F + [ F - B [ A ] ] next B : [ | F - F + B ] next "}
+{"file_name": "tree-horse_angle_50_iter_2.png", "caption": "angle is 50 iteration is 2 grammar is S : | - A ! S ! B next A : [ F [ F F - B A ] F C ] + next B : - - [ F - F - F C ] - next C : F C F [ B + F ] + B next "}
+{"file_name": "dragon-spirograph_angle_40_iter_96.png", "caption": "angle is 40 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "dragon-spirograph_angle_90_iter_96.png", "caption": "angle is 90 iteration is 96 grammar is S : A B A next A : F | + [ F - B [ A ] ] next B : [ - F - F + F B ] + next "}
+{"file_name": "flyweight_angle_155_iter_26.png", "caption": "angle is 155 iteration is 26 grammar is S : A next A : F + [ F - B [ A ] ] F C next B : - - [ | F - F - - F B ] - next C : F C F [ + F ] + B next "}
+{"file_name": "twistmas-tree_angle_95_iter_36.png", "caption": "angle is 95 iteration is 36 grammar is S : [ A ] F S next A : ! B A B next B : - B F - next "}
+{"file_name": "house-rules_angle_10_iter_22.png", "caption": "angle is 10 iteration is 22 grammar is S : A | A A | A next A : ! [ B | D F A ] next B : C | B F ! next C : F | - C | + F next D : + next "}
+{"file_name": "leviathon_angle_165_iter_31.png", "caption": "angle is 165 iteration is 31 grammar is S : A ! | C F F S next A : F ! + + [ F - E B A ] next B : F - | B ! next C : D C E next D : - next E : ! - next "}
