@@ -185,7 +185,7 @@ def evaluate(beam_size):
         # break
     print("bleu_1:", sum(bleu1_list) / len(bleu1_list))
     print("rouge_score_1:", sum(bleu2_list) / len(bleu2_list))
-    print('rouge_score_2:', sum(bleu3_list) / len(bleu3_list))
+    #print('rouge_score_2:', sum(bleu3_list) / len(bleu3_list))
     print("rouge_score_l:", sum(bleu4_list) / len(bleu4_list))
     # Calculate BLEU-4 scores
     bleu4 = corpus_bleu(references, hypotheses)
