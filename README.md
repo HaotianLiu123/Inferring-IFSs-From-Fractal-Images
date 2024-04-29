@@ -33,9 +33,6 @@ The generated images will be saved in ```Data_Generation/L_system/Data``` folder
 #### FractalDB dataset
 You can download the FractalDB from [this](https://hirokatsukataoka16.github.io/Pretraining-without-Natural-Images/#dataset) and put the data under ```Data_Generation/FractalDB``` folder.
 
-
-The split of data can be download from [this](https://drive.google.com/drive/folders/1zQ70SWF0BJS2aLpBE1-W41VUf7VPafW6?usp=drive_link). You can put those floders under your ```Data_Split``` folder.
-
 ## Train
 
 ## Test
