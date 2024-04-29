@@ -37,8 +37,8 @@ You can download the FractalDB from [this](https://hirokatsukataoka16.github.io/
 
 ## Test
 
-### Citation
+## Citation
 
-### Aknowledgement
+## Aknowledgement
 
 
