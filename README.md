@@ -51,7 +51,7 @@ You can download the FractalDB from [this](https://hirokatsukataoka16.github.io/
 The split of data can be download from [this](https://drive.google.com/drive/folders/131g284E5_lqKDGp7XAFbCu82NFNoISNJ?usp=sharing). You should place the corresponding files in the folders that contain the respective images.
 
 
-### Train
+## Train
 Run the following command to train the model. You can adjust the parameters inside according to your own needs.
 
 [//]: # (```)
@@ -65,7 +65,7 @@ cd Methods
 python train.py --data_folder  path/to/L_system/data --Julia_data_folder path/to/Julia_Set/data/ --fractalDB_data_folder path/to/FractalDB/data --save_dir path/to/save/checkpoint
 ```
 
-### Evalation
+## Evalation
 Run the following command can do the evaluation on the Julia dataset and L-system dataset. You can adjust the parameters inside according to your own needs.
 ```
 cd Methods
@@ -73,8 +73,8 @@ python eval.py --data_folder  path/to/L_system/data --Julia_data_folder path/to/
 ```
 
 
-### Citation
+## Citation
 
-### Aknowledgement
+## Aknowledgement
 
 
