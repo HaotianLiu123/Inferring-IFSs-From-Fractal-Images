@@ -12,6 +12,8 @@ import pylab, argparse, collections, inspect, functools
 from itertools import takewhile
 import time
 import multiprocessing
+
+# 定义了Point元组，这个元组里面有两个值分别是x和y
 Point = collections.namedtuple("Point", ["x", "y"])
 
 def pair_reader(dtype):
@@ -53,6 +55,7 @@ def repeater(f):
   3968
 
   """
+  # 这个函数能够接受一个参数f，并返回一个新的函数，这个生成器函数可以产生一个无限序列，这个序列包含对函数f的重复组合
   @functools.wraps(f)
   def wrapper(n):
     val = n
@@ -89,6 +92,7 @@ def amount(gen, limit=float("inf")):
 
 
 def in_circle(radius):
+  # 这个函数接受的是一个半径的长度，返回的是一个lambda的函数，这个lambda函数能够接受一个复数z作为参数，然后计算并返回布尔值，判断复数z是否在以原点为中心，半径为radius的圆内
   """ Returns ``abs(z) < radius`` boolean value function for a given ``z`` """
   return lambda z: z.real ** 2 + z.imag ** 2 < radius ** 2
 
@@ -98,21 +102,39 @@ def fractal_eta(z, func, limit, radius=2):
   Fractal Escape Time Algorithm for pixel (x, y) at z = ``x + y * 1j``.
   Returns the fractal value up to a ``limit`` iteration depth.
   """
+  # 这是一个分形逃逸算法，这个算法用于生成分形图像，用于确定复平面上每个点在迭代过程中是否逃逸出某个范围的算法
   return amount(takewhile(in_circle(radius), repeater(func)(z)), limit)
 
 
 def cqp(c):
   """ Complex quadratic polynomial, function used for Mandelbrot fractal """
+  # 这个就是mandelbort fractal
+  # cqp(c)返回的lambda 函数接受一个复数参数z，然后使用复二次多项式的公式计算结果，就是z^2+c
+  # 这里的z相当于迭代的开始起点能够反应的是这个点所在的复平面区域的性质。而c是你要求的常熟，可能会给整个图形带来不一样的形状
   return lambda z: z ** 2 + c
+
+# def fractal_eta(z, func, limit, radius=2):
+#   """
+#   Fractal Escape Time Algorithm for pixel (x, y) at z = ``x + y * 1j``.
+#   Returns the fractal value up to a ``limit`` iteration depth.
+#   """
+#   # 这是一个分形逃逸算法，这个算法用于生成分形图像，用于确定复平面上每个点在迭代过程中是否逃逸出某个范围的算法
+#   return amount(takewhile(in_circle(radius), repeater(func)(z)), limit)
+#
+#
 
 def get_model(model, depth, c):
   """
   Returns the fractal model function for a single pixel.
   """
+  # 所以对于julia集来说，这里面的参数包含了c，（x,y），depth
+  # 对于Mandelbrot集来说，这里面的参数包含了(x,y)和depth，这里的c就是常数0
   if model == "julia":
     func = cqp(c)
+    # 这里的function里面的c是一个固定的值，但是起点是提前给定的point对应的x和y
     return lambda x, y: fractal_eta(x + y * 1j, func, depth)
   if model == "mandelbrot":
+    #   这里的z是保持不变的，一直都是0，变得是后面的常数项c，这里的c就是给定的起始点
     return lambda x, y: fractal_eta(0, cqp(x + y * 1j), depth)
   raise ValueError("Fractal not found")
 
@@ -144,6 +166,7 @@ def generate_row(model, c, size, depth, zoom, center, row):
   """
   Generate a single row of fractal values, enabling shared workload.
   """
+  # 这里的size是最终生成的图像的宽度和高度，这里的depth是迭代的深度和迭代的次数，这里的zoom是生成的缩放因子，表示缩放级别
   func = get_model(model, depth, c)
   width, height = size
   cx, cy = center

@@ -12,8 +12,12 @@ basic_str = lambda el: str(el).lstrip("(").rstrip(")")  # Complex or model name
 item_str = lambda k, v: (basic_str(v) if k in ["model", "c"] else
                          "{}={}".format(k, v))
 filename = lambda kwargs: "_".join(item_str(*pair) for pair in kwargs.items())
+
+# 设置随机数生成的种子
 random.seed(42)
+
 kwargs_list = []
+# 这里面的随机数包括了image part和depth，以及zoom
 for i in range(10000):
     real_part = random.uniform(-1, 1)
     image_part = random.uniform(-1, 1)
@@ -31,6 +35,7 @@ if __name__ == "__main__":
     for kwargs in kwargs_list:
         temp_dict = {}
         temp_dict['file_name'] = filename(kwargs)
+        #print(filename(kwargs))
         file_name_list.append(temp_dict)
         kwargs["output"] = "Data/{}.png".format(filename(kwargs))
         if not os.path.exists('Data'):
